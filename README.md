@@ -1,5 +1,6 @@
 #  Desafio de Prjeto sobre Git/GitHub da DIO.
 
-Primeiro desafio Dio no BootCamp  TQI de Git/GitHub.
+Primeiro desafio Dio no BootCamp  TQI de Git/GitHub
 
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+## Links Uteis
+[Sintaxe Basic Markdown] ( https://www.markdownguide.org/basic-syntax/ )
