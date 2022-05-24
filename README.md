@@ -1,5 +1,5 @@
-# Repostarório do primeiro desafio de BootCamp da DIO com TQI de Git/GitHub
+#  Desafio de Prjeto sobre Git/GitHub da DIO.
 
-Primeiro desafio Dio no bootcamp TQI usando Git/GitHub.
+Primeiro desafio Dio no BootCamp  TQI de Git/GitHub.
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
